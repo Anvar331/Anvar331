@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anvar331
 - 👀 I’m interested in Product Development
 - 🌱 I’m currently learning Front-end developlment
-- 💞️ I’m looking to collaborate on interesting project
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me anvar331@mail.com
 
 <!---
